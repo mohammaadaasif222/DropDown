@@ -1,0 +1,29 @@
+h4 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#main{      
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.bg-pink{
+	background-color:pink;
+}
+select{
+    padding: .5rem;
+    width: 100%;
+    margin: 10px 0px !important;
+    border-radius: 4px;
+}
+label{
+    margin: 20px 0px !important; 
+}
